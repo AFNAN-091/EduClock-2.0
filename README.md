@@ -1,6 +1,6 @@
 # EduClock 2.0
 
-
+[Watch the demo video on YouTube](https://youtube.com/shorts/ZPuFapcjT3s?feature=share)
 
 ## Getting Started
 
