@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "399314696992",
+    "firebase_url": "https://routine-management-6f196-default-rtdb.firebaseio.com",
+    "project_id": "routine-management-6f196",
+    "storage_bucket": "routine-management-6f196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399314696992:android:2f687d7195b775a27ef545",
+        "android_client_info": {
+          "package_name": "com.example.routine_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZ34aFJpDlusiH5hSfLt2AnObMSocDsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
