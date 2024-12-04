@@ -5,6 +5,11 @@
 ## Getting Started
 
 
+| <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006496-c7cb6300-d935-11e9-839b-0f84c8c1b20b.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006498-c863f980-d935-11e9-88c2-bc2308248da9.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006501-c9952680-d935-11e9-8bc7-0f94031a9942.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006492-c732cc80-d935-11e9-89c3-7e75df55c3d4.png"/> |
+|---|---|---|---|
+|<img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-03-16_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006482-c4d07280-d935-11e9-9ae5-b84eea52febb.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006484-c4d07280-d935-11e9-90a7-bfa99d2394d9.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006486-c5690900-d935-11e9-9ec9-e53fa5a57d7c.png"/>  |
+| <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006487-c5690900-d935-11e9-9459-d10928aa8440.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006488-c6019f80-d935-11e9-8751-745a22443b73.png"/> | <img width="150" alt="018" src="https://user-images.githubusercontent.com/30992818/65006489-c69a3600-d935-11e9-8d3b-ac226d54b7f9.png"/> |   |
+
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/jehato47/school2?color=56BEB8" /> -->
 <!-- 
   <img alt="Github forks" src="https://img.shields.io/github/forks/jehato47/school2?color=56BEB8" />
