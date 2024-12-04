@@ -36,11 +36,11 @@ Developed a Flutter app to help university students track exams (24-hour reminde
 
 ## :sparkles: Features ##
 
-📅 Track upcoming **exams** and **class schedules**.
+📅 Track upcoming **Exams** and **Class Schedules**.
 
-📝 Receive notices and updates specific to your department and semester.
+📝 Receive **Notices** and updates specific to your department and semester.
 
-⏰ Notifications 15 minutes before class and 24 hours before exams to keep students on track.
+⏰ Notifications 15 minutes before **Class** and 24 hours before **Exams** to keep students on track. Real-time notifications for when a new class or exam is **Posted**, and when a class or exam is **Postponed**.
 
 📄 EduClock app that allows students to view their semester results and download them as a PDF. This feature helps students easily save and share their academic performance in a convenient, digital format.
 
@@ -48,13 +48,13 @@ Developed a Flutter app to help university students track exams (24-hour reminde
 
 The following tools were used in this project:
 
-✔️ Flutter: For building a responsive and user-friendly mobile app.
+✔️ **Flutter** For building a responsive and user-friendly mobile app.
 
-✔️ Firebase Realtime Database: For real-time data storage and synchronization across devices.
+✔️ **Firebase Realtime Database:** For real-time data storage and synchronization across devices.
 
-✔️ Firebase Storage: For storing and managing user files such as PDFs, images, and other resources.
+✔️ **Firebase Storage:** For storing and managing user files such as PDFs, images, and other resources.
 
-✔️ Flutter SQFlite: For local database storage, enabling efficient offline data management.
+✔️ **Flutter SQFlite:** For local database storage, enabling efficient offline data management.
 <!-- - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
@@ -68,7 +68,7 @@ Before starting , you need to have [Git](https://git-scm.com) and [flutter](http
 
 ```bash
 # Clone this project
-$ git clone [https://github.com/jehato47/school2](https://github.com/AFNAN-091/EduClock-2.0.git)
+$ git clone https://github.com/AFNAN-091/EduClock-2.0.git
 
 # Install dependencies
 $ flutter pub get
@@ -77,7 +77,6 @@ $ flutter pub get
 $ flutter run
 
 ```
-
 &#xa0;
 
 <a href="#top">Back to top</a>
