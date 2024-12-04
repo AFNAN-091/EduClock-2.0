@@ -1,11 +1,11 @@
-# EduClock
+# EduClock 2.0
 
 
 
 ## Getting Started
 
 
-| <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-03-16_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-11-64_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-15-42_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-31-62_70f495e08671079829443d3bd5524ec5.jpg"/> |
+| <img width="200" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-03-16_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-11-64_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-15-42_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-31-62_70f495e08671079829443d3bd5524ec5.jpg"/> |
 |---|---|---|---|
 |<img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-38-36-00_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-39-02-56_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-39-07-07_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-39-10-47_70f495e08671079829443d3bd5524ec5.jpg"/>  |
 | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-09-17-19-39-39-45.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-12-04-18-18-24-50_70f495e08671079829443d3bd5524ec5.jpg"/> | <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-12-04-18-18-16-94_70f495e08671079829443d3bd5524ec5.jpg"/> |  <img width="150" alt="018" src="https://github.com/AFNAN-091/EduClock-2.0/blob/main/gallery/Screenshot_2024-12-04-18-18-06-78_70f495e08671079829443d3bd5524ec5.jpg"/> |
