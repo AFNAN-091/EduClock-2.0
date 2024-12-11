@@ -50,6 +50,8 @@ Developed a Flutter app to help university students track exams (24-hour reminde
 
 📄 EduClock app that allows students to view their semester results and download them as a PDF. This feature helps students easily save and share their academic performance in a convenient, digital format.
 
+📝 Resource Management: Access a variety of learning materials, including PDFs, videos, images, slides, previous year questions, and notes, categorized by department, semester, and subject.
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
