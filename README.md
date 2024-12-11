@@ -38,7 +38,7 @@
 
 ## :dart: About ##
 
-Developed a Flutter app to help university students track exams (24-hour reminders with syllabus), class routines (15-minute alerts), notices, and access semester-specific resources. Features real-time notifications for new exams, classes, or notices across all departments and semesters.
+Developed a Flutter app to help university students manage exams, classes, and resources efficiently. The app notifies students before exams start, sends 15-minute alerts before classes begin, and provides real-time updates on new or canceled exams and classes. It also delivers departmental and university notices in real-time. Students can access semester-specific resources, including PDFs, videos, images, slides, notes, and previous year questions, view upcoming classes and exams, and track their semester results within the app.
 
 ## :sparkles: Features ##
 
